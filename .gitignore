@@ -1,0 +1,26 @@
+# Generated build output
+build/
+*/build/
+
+# Local plugin/build artifacts
+*.vst3/
+*.component/
+*.aaxplugin/
+*.exe
+*.dll
+*.lib
+*.exp
+*.pdb
+*.ilk
+*.obj
+*.log
+*.zip
+
+# IDE and machine-local settings
+.vs/
+.vscode/
+.claude/settings.local.json
+
+# OS noise
+Thumbs.db
+Desktop.ini
