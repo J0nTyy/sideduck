@@ -1,5 +1,9 @@
 # SideDuck
 
+<p align="center">
+  <img src="Assets/screenshot.png" alt="SideDuck plugin interface — LFO curve display with shape, sync, and ducking controls" width="820">
+</p>
+
 An LFOTool-style sidechain / volume-ducking VST3 plugin built with JUCE. The
 LFO (or an external sidechain signal, or MIDI notes) modulates the output gain
 so you get sidechain "pumping" without routing anything into a compressor —
